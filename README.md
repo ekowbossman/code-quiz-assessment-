@@ -24,10 +24,10 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ##### Mock Up: 
-![alt text](./assets/images/codeQuiz1.png)
-![alt text](./assets/images/codeQuiz2.png)
-![alt text](./assets/images/codeQuiz3.png)
-![alt text](./assets/images/codeQuiz4.png)
-![alt text](./assets/images/codeQuiz5.png)
+![alt text](./assets/images/codeQuiz6.png)
+![alt text](./assets/images/codeQuiz7.png)
+![alt text](./assets/images/codeQuiz8.png)
+![alt text](./assets/images/codeQuiz9.png)
+![alt text](./assets/images/codeQuiz10.png)
 
 ###### Web link:  https://ekowbossman.github.io/code-quiz-assessment-/
