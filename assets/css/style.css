@@ -4,9 +4,9 @@
 
 :root {
   --primary: #0a0808c5;
-  --secondary: #8207a1;
-  --tertiary: rgb(211, 56, 144);
-  --white: rgb(255, 255, 255);
+  --secondary: #07a1a1;
+  --tertiary: rgb(159, 226, 146);
+  --white: rgba(253, 254, 255, 0.774);
   font-size: 62.5%;
 }
 
