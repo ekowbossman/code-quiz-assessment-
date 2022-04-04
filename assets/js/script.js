@@ -92,10 +92,10 @@ var questions = [
   },
   {
     q: "Why does the United States flag have 13 stripes?",
-    a: "2. Because there were 13 origibnal colonies",
+    a: "2. Because there were 13 original colonies",
     choices: [
       { choice: "1. Because there were 13 original amendments" },
-      { choice: "2. Because there were 13 origibnal colonies" },
+      { choice: "2. Because there were 13 original colonies" },
       { choice: "3. Because there were 13 founding fathers" },
       { choice: "4. Because the consitution has 13 authors" },
     ],
